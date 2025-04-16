@@ -34,3 +34,30 @@ Ce projet permettra de développer une solution autonome et durable pour la
 mesure de la température. La conception d'une carte PCB optimisera l'intégration
 des composants et la gestion énergétique.
 
+## Fonction de transfert du capteur de température
+
+La fonction de transfert du capteur de température est explicitée dans la partie
+4 (*Applications information*) de la fiche de donnée du capteur de température
+(`documents/thermal_sensor_datasheet.pdf`).
+
+Cette dernière nous informe que
+
+$$
+V_OUT = T_C \times T_A + V_{0°C}
+$$
+
+avec $V_OUT$ la tension de sortie du capteur, $T_C$ le coefficient de
+température, $T_A$ la température ambiante et $V_{0°C}$ la tension de sortie du
+capteur à 0°C.
+
+On a alors,
+
+$$
+\begin{align*}
+    V_OUT &= T_C \times T_A + V_{0°C} \\
+    V_OUT - V_{0°C} &= T_C \times T_A \\
+    T_A &= \frac{V_OUT - V_{0°C}}{T_C}
+\end{align*}
+$$
+
+avec $V_{0°C} = 500 V$ et $T_C = 10.0 V$.
