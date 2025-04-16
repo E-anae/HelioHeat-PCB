@@ -43,10 +43,10 @@ La fonction de transfert du capteur de température est explicitée dans la part
 Cette dernière nous informe que
 
 $$
-V_OUT = T_C \times T_A + V_{0°C}
+V_{OUT} = T_C \times T_A + V_{0°C}
 $$
 
-avec $V_OUT$ la tension de sortie du capteur, $T_C$ le coefficient de
+avec $V_{OUT}$ la tension de sortie du capteur, $T_C$ le coefficient de
 température, $T_A$ la température ambiante et $V_{0°C}$ la tension de sortie du
 capteur à 0°C.
 
@@ -54,8 +54,8 @@ On a alors,
 
 $$
 \begin{align*}
-    V_OUT &= T_C \times T_A + V_{0°C} \\
-    V_OUT - V_{0°C} &= T_C \times T_A \\
+    V_{OUT} &= T_C \times T_A + V_{0°C} \\
+    V_{OUT} - V_{0°C} &= T_C \times T_A \\
     T_A &= \frac{V_OUT - V_{0°C}}{T_C}
 \end{align*}
 $$
