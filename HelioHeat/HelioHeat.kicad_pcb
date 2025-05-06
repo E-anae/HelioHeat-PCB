@@ -631,7 +631,7 @@
 			)
 		)
 		(property "Value" "CD4511BE"
-			(at 11.275 11.135 90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "a84dbaae-f4b0-490e-a8e9-f3cc7c68b1e2")
 			(effects
@@ -1313,7 +1313,7 @@
 			)
 		)
 		(property "Value" "CD4511BE"
-			(at 11.275 11.135 90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "5b99f81e-f768-4508-afc7-b2277e7ac742")
 			(effects
@@ -2249,7 +2249,7 @@
 			)
 		)
 		(property "Value" "WL-T7DS_0.39INCH_COMMON-ANODE"
-			(at 0 7.865 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7ccd845e-b0e1-4c7f-8064-9f83232b9571")
 			(effects
@@ -3094,7 +3094,7 @@
 			)
 		)
 		(property "Value" "WL-T7DS_0.39INCH_COMMON-ANODE"
-			(at 0 7.865 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7103370a-3120-424b-a382-2c0fa3914416")
 			(effects
@@ -3491,7 +3491,7 @@
 			)
 		)
 		(property "Value" "ATtiny85-20P"
-			(at 3.81 9.95 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "46b3a728-2968-45c0-b3d5-36dabd6839e0")
 			(effects
@@ -4457,7 +4457,7 @@
 			)
 		)
 		(property "Value" "CD4511BE"
-			(at 11.275 11.135 90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "82ca61c1-ae9b-4fb8-9421-9f56719ece2c")
 			(effects
@@ -4944,7 +4944,7 @@
 			)
 		)
 		(property "Value" "WL-T7DS_0.39INCH_COMMON-ANODE"
-			(at -15.5 38.825 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "79aa369c-98c6-476b-915f-9a0f7a663b32")
 			(effects
