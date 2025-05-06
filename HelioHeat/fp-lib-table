@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "HelioHeatPartsLib")(type "KiCad")(uri "/home/ethanp/Documents/Epita/pcb/HelioHeatPartsLib")(options "")(descr ""))
+  (lib (name "HelioHeatPartsLib")(type "KiCad")(uri "C:/Users/anton/OneDrive - EPITA/Elec-PCB/HelioHeatPartsLib")(options "")(descr ""))
 )
