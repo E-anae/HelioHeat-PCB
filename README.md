@@ -56,7 +56,7 @@ $$
 \begin{align*}
     V_{OUT} &= T_C \times T_A + V_{0°C} \\
     V_{OUT} - V_{0°C} &= T_C \times T_A \\
-    T_A &= \frac{V_OUT - V_{0°C}}{T_C}
+    T_A &= \frac{V_{OUT} - V_{0°C}}{T_C}
 \end{align*}
 $$
 
