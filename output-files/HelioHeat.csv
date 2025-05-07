@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
+"D1,D2,D3","WL-T7DS_0.39INCH_COMMON-ANODE","WL-T7DS_0.39INCH_COMMON-ANODE:WL-T7DS_0.39INCH","","3","","",""
+"J1","USB_B_Micro","Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal","~","1","","",""
+"R1,R2,R3","220","Resistor_SMD:R_0201_0603Metric","~","3","","",""
+"U1","ATtiny85-20P","Package_DIP:DIP-8_W7.62mm","http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf","1","","",""
+"U2,U3,U4","CD4511BE","CD4511BE:DIP794W45P254L1969H508Q16","","3","","",""
+"U5,U6","74HC595","74HC595:SO16","http://www.ti.com/lit/ds/symlink/sn74hc595.pdf","2","","",""
+"U7","MCP9700Ax-ELT","Package_TO_SOT_SMD:SOT-353_SC-70-5","http://ww1.microchip.com/downloads/en/DeviceDoc/20001942G.pdf","1","","",""
