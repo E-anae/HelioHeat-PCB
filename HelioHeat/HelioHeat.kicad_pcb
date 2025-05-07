@@ -1160,6 +1160,7 @@
 		(path "/6bae231c-f2c4-4257-b5ae-f8ed693281b1")
 		(sheetname "/")
 		(sheetfile "HelioHeat.kicad_sch")
+		(clearance 0.02)
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -2941,6 +2942,7 @@
 		(path "/e294a046-1b75-4e0f-907d-559b29225ce8")
 		(sheetname "/")
 		(sheetfile "HelioHeat.kicad_sch")
+		(clearance 0.02)
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -4304,6 +4306,7 @@
 		(path "/6ce56c14-054d-42bd-9004-1f768738746f")
 		(sheetname "/")
 		(sheetfile "HelioHeat.kicad_sch")
+		(clearance 0.02)
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -7648,7 +7651,7 @@
 	(segment
 		(start 84.26 27.5)
 		(end 87.025 27.5)
-		(width 0.2)
+		(width 0.18)
 		(layer "F.Cu")
 		(net 43)
 		(uuid "0bd84f4e-1e16-48d9-ba74-b83badf5fe66")
@@ -7664,10 +7667,10 @@
 	(segment
 		(start 98.26 27.5)
 		(end 101.025 27.5)
-		(width 0.2)
+		(width 0.18)
 		(layer "F.Cu")
 		(net 44)
-		(uuid "fca152da-ca8b-4e27-bd5b-77f34fc8021c")
+		(uuid "4f9d6994-995d-41da-a25b-06720c22db9a")
 	)
 	(segment
 		(start 90.74 27.5)
